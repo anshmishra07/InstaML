@@ -71,7 +71,7 @@ InstaML is a comprehensive no-code machine learning platform designed to democra
 ### Local Installation
 
 ```bash
-git clone https://github.com/shivsrijit/InstaML.git
+git clone https://github.com/anshmishra07/InstaML.git
 cd InstaML/InstaML
 pip install -r requirements.txt
 streamlit run app.py --server.port 8501 --server.address 0.0.0.0
